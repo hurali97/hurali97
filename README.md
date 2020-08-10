@@ -34,7 +34,7 @@
  
 ---
 
-[![Hur Ali's github stats](https://github-readme-stats.vercel.app/api?username=hurali97)](https://github.com/hurali97/github-readme-stats)
+[![Hur Ali's github stats](https://github-readme-stats.vercel.app/api?username=hurali97&hide=stars&count_private=true&show_icons=true)](https://github.com/hurali97/github-readme-stats)
  
 [medium]: https://medium.com/@hurali 
 [linkedin]: https://www.linkedin.com/in/muhammad-hur-ali-3b0821151
