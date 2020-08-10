@@ -14,6 +14,12 @@
 
 <br />
 
+### My publications:
+- [A beginner’s guide on How To GraphQL](https://medium.com/@hurali/graphql-a-beginners-guide-on-how-to-graphql-6d4dc53a2c16)
+- [makeReact](https://pypi.org/project/makeReact/)
+
+
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -34,7 +40,7 @@
  
 ---
 
-[![Hur Ali's github stats](https://github-readme-stats.vercel.app/api?username=hurali97&hide=stars&count_private=true&show_icons=true)](https://github.com/hurali97/github-readme-stats)
+![Hur Ali's github stats](https://github-readme-stats.vercel.app/api?username=hurali97&hide=stars&count_private=true&show_icons=true)
  
 [medium]: https://medium.com/@hurali 
 [linkedin]: https://www.linkedin.com/in/muhammad-hur-ali-3b0821151
