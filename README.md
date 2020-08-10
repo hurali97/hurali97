@@ -3,8 +3,10 @@
 ## I'm a Computer Science graduated Mobile Application Developer
 
 - 🌱 Trying to learn from almost everything
-- 👯 I’m looking forward to contribute more to Open Source projects 
-- ⚡ Fun fact: I love football and fifa 🎮️⚽️
+- 🧐️ Looking forward to contribute more to Open Source projects 
+- 🤖️ Striving to help make change in robotics with AI
+- 💻️ Skilled programmer, Helping hand, Team player
+- ⚡  Love football and fifa 🎮️⚽️
 
 ### Connect with me:
 
